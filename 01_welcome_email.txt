@@ -1,0 +1,48 @@
+Hi <%= member.name %>,
+
+Thank you for your support!
+
+Deutsche Version unten.
+
+Please use the account details given below to transfer the support flat rate - ideally by standing order ...
+Please enter "Unterstuetzungsbeitrag <%= String.capitalize(member.tree) %>" as the payment reference. Since we are abolishing the previously manual assignment of wire-transfers to members
+and make bookkeeping easier, we've given you all a random tree name. Your tree name is: <%= String.capitalize(member.tree) %>
+
+Since we are a non-profit company, we can issue donation receipts for your support contributions. If you need/want one of those, we need your full name and address, so please send those details to finanzen@x-hain.de.
+
+According to the member database you have chosen a contribution of <%= :erlang.float_to_binary(member.payment_wish, [decimals: 2]) %> euros.
+
+If you have any questions - get in touch!
+
+Kind regards
+Felix & Björn
+
+Account holder: xHain hack+makespace
+GLS Bank
+IBAN: DE72 4306 0967 1050 8465 00
+BIC: GENODEM1GLS
+Purpose: <%= String.capitalize(member.tree) %>
+
+    
+Hi <%= member.name %>,
+vielen Dank für deine Unterstützung!
+
+Bitte nutze für die Überweisung der Support-Flatrate die unten angegebene Kontoverbindung - am Besten per Dauerauftrag...
+Gib im Verwendungszweck bitte "<%= String.capitalize(member.tree) %>" an. Da wir das vormalig manuelle Zuordnen von Überweisung zu Membern gerne abschaffen
+und die Buchhaltung einfacher machen, haben wir euch allen einen zufälligen Baumnamen zugeordnet. Bitte gebt diesen immer im Verwendungszweck an. Dein Baumname ist: <%= String.capitalize(member.tree) %>
+
+Da wir ein gemeinnütziges Unternehmen sind, können wir euch für eure Unterstützungsbeiträge auch Spendenbescheinigungen ausstellen. Falls ihr eine
+wollt, benötigen wir aber einen vollen Namen und Anschrift. Schickt dafür doch bitte eine Mail an finanzen@x-hain.de.
+
+Laut Memberdatenbank hast du dich für einen Beitrag von <%= :erlang.float_to_binary(member.payment_wish, [decimals: 2]) %> Euro entschieden.
+
+Solltest du noch Fragen haben - melde dich!
+
+Viele liebe Grüße
+Felix & Björn
+
+Kontoinhaber: xHain hack+makespace
+GLS Bank
+IBAN: DE72 4306 0967 1050 8465 00
+BIC: GENODEM1GLS
+Verwendungszweck: <%= String.capitalize(member.tree) %>
