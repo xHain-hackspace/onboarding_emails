@@ -1,0 +1,64 @@
+
+  <!-- MAIN HEADLINE -->
+  Nice to have you on board!
+
+    <!-- MAIN TEXT -->
+    We want to welcome you as a new member of the xHain Hack+Makespace. BTW: Thank you, your first donation has arrived on our account. Here are some steppingstones to get a foot in the door.
+
+    Best regards and see you soon<br>
+    Felix, Björn and the xHainies
+
+    <!-- FIRST ROW HEADLINE -->
+    get started
+
+      <!-- ROW 1 COLUMN 1 HEADLINE -->
+      mailing list
+
+      <!-- ROW 1 COLUMN 1 -->
+      You are already on our general mailing list and will receive announcements and xxxxx. How easy was that!?
+
+      <!-- ROW 1 COLUMN 2 HEADLINE -->
+      wiki
+
+      <!-- ROW 1 COLUMN 2 -->
+      At <a href="https://wiki.x-hain.de" title="https://wiki.x-hain.de" style="text-decoration:none;color:#aed919;">wiki.x-hain.de</a> you can find a lot of information about xHain. Like our <a href="https://wiki.x-hain.de/en/xHain/spacerules" title="https://wiki.x-hain.de/en/xHain/spacerules" style="text-decoration:none;color:#aed919;">space rules</a>, project documentation or machine instructions. Yes, there will be some reading to do.
+
+      <!-- ROW 1 COLUMN 2 HEADLINE -->
+      calendar
+
+      <!-- ROW 1 COLUMN 3 -->
+      Maybe the next event at xHain is exactly what you are looking for. Check out the <a href="https://x-hain.de/de/page/calendar/" title="https://x-hain.de/de/page/calendar/" style="text-decoration:none;color:#aed919;">calendar</a>!
+
+
+
+  <!-- SECOND ROW HEADLINE -->
+  get in touch
+
+      <!-- ROW 2 COLUMN 1 HEADLINE -->
+      chat
+
+      <!-- ROW 2 COLUMN 1 -->
+      Our daily communication takes place via the <a href="https://chat.x-hain.de/" title="https://chat.x-hain.de/" style="text-decoration:none;color:#aed919;">Rocket Chat</a>. There you will find channels on different topics and you can write messages to other members.<br>
+      Create your account <a href="https://chat.x-hain.de/home" title="https://chat.x-hain.de/home" style="text-decoration:none;color:#aed919;">here</a>!
+
+      <!-- ROW 2 COLUMN 2 HEADLINE -->
+      Mondays
+
+      <!-- ROW 2 COLUMN 2 -->
+      The xHain thrives on networking and collaboration. So feel invited to drop by at the <a href="https://x-hain.de/de/#content" title="https://x-hain.de/de/#content" style="text-decoration:none;color:#aed919;">open evening</a> every Monday!
+
+      <!-- ROW 2 COLUMN 3 HEADLINE -->
+      chat channels
+
+      <!-- ROW 2 COLUMN 3 -->
+      The channel <a href="https://chat.x-hain.de/channel/general" title="https://chat.x-hain.de/channel/general" style="text-decoration:none;color:#aed919;">#general</a> is for general enquiries.<br>
+      <a href="https://chat.x-hain.de/channel/xroots" title="https://chat.x-hain.de/channel/xroots" style="text-decoration:none;color:#aed919;">#xroots</a> is for newbies. There you can post your inquiries or ask for mentoring.<br>
+      Do you have stuff to give away? Or like to have stuff? Check out the <a href="https://chat.x-hain.de/channel/fleamarket" title="https://chat.x-hain.de/channel/fleamarket" style="text-decoration:none;color:#aed919;">#fleamarket</a>!
+
+<!-- FOOTER LINKS -->
+
+      <a href="https://chaos.social/@xHain_hackspace" title="https://chaos.social/@xHain_hackspace"><img src="https://stuff.mrhide.de/xh_img/social_mastodon.png" alt="mastodon" style="height:18px;"></a>
+      <a href="https://twitter.com/xHain_hackspace" title="https://twitter.com/xHain_hackspace"><img src="https://stuff.mrhide.de/xh_img/social_twitter.png" alt="twitter" style="height:18px;"></a>
+      <a href="https://www.youtube.com/channel/UCndtqJj4CxWpn2PDdBE6q8g" title="https://www.youtube.com/channel/UCndtqJj4CxWpn2PDdBE6q8g"><img src="https://stuff.mrhide.de/xh_img/social_youtube.png" alt="youtube" style="height:18px;"></a>
+      <a href="https://gitlab.com/xHain-hackspace" title="https://gitlab.com/xHain-hackspace"><img src="https://stuff.mrhide.de/xh_img/social_gitlab.png" alt="gitlab" style="height:18px;"></a>
+      <a href="https://github.com/xHain-hackspace" title="https://github.com/xHain-hackspace"><img src="https://stuff.mrhide.de/xh_img/social_github.png" alt="github" style="height:18px;"></a>
